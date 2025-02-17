@@ -7,8 +7,8 @@ Example of a working bot    https://t.me/Downloadervid_bot
 
 
 Setup Instructions
-1.Clone the Repository
-2.Install Dependencies 
+*1.Clone the Repository
+*2.Install Dependencies 
   pip install -r requirements.txt
 3.Configure the Bot:
 Replace "YOUR_BOT_TOKEN" in the code with your actual Telegram bot token.
